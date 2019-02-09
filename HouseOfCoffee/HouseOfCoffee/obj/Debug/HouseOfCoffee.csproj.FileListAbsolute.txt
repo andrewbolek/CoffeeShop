@@ -1,0 +1,10 @@
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.exe.config
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.exe
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.pdb
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csprojAssemblyReference.cache
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csproj.CoreCompileInputs.cache
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.exe
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.pdb
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\bin\Debug\MyClassLibrary.dll
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\bin\Debug\MyClassLibrary.pdb
+C:\Users\apbol\source\repos\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csproj.CopyComplete

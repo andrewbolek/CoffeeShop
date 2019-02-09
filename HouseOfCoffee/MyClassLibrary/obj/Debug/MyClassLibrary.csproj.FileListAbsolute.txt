@@ -1,0 +1,6 @@
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\apbol\source\repos\HouseOfCoffee\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
